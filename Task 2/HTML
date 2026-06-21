@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UX/UI Internship Tasks</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="accordion-item active">
+        <button class="accordion-header">
+            <div class="left">
+                <span class="number">1</span>
+                <span class="title">Mobile App UX Case Study</span>
+            </div>
+            <span class="icon">⌄</span>
+        </button>
+
+        <div class="accordion-content">
+            <h3>Goal</h3>
+            <p>Design a complete UX case study for a mobile app.</p>
+
+            <h3>Requirements</h3>
+            <ul>
+                <li>User research summary and personas</li>
+                <li>User flows and wireframes</li>
+                <li>High-fidelity prototype with 4-6 screens</li>
+            </ul>
+
+            <h3>Deliverables</h3>
+            <ol>
+                <li>Figma/Adobe XD link</li>
+                <li>PDF summary</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <button class="accordion-header">
+            <div class="left">
+                <span class="number">2</span>
+                <span class="title">Website Landing Page UI Design</span>
+            </div>
+            <span class="icon">⌄</span>
+        </button>
+
+        <div class="accordion-content">
+            <h3>Goal</h3>
+            <p>Design a conversion-focused landing page for a product or service.</p>
+
+            <h3>Requirements</h3>
+            <ul>
+                <li>Wireframe + high-fidelity mockup</li>
+                <li>Hero section, features, testimonials & CTA</li>
+                <li>Typography and component specifications</li>
+            </ul>
+
+            <h3>Deliverables</h3>
+            <ol>
+                <li>Figma/XD design files</li>
+                <li>Exported PNG screens</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <button class="accordion-header">
+            <div class="left">
+                <span class="number">3</span>
+                <span class="title">Design System & Component Library</span>
+            </div>
+            <span class="icon">⌄</span>
+        </button>
+
+        <div class="accordion-content">
+            <p>Create a design system with reusable UI components.</p>
+        </div>
+    </div>
+
+    <div class="accordion-item">
+        <button class="accordion-header">
+            <div class="left">
+                <span class="number">4</span>
+                <span class="title">Usability Testing & Iteration</span>
+            </div>
+            <span class="icon">⌄</span>
+        </button>
+
+        <div class="accordion-content">
+            <p>Conduct usability testing and improve the design.</p>
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
