@@ -1,0 +1,60 @@
+<div class="accordion-item active">
+    <button class="accordion-header">
+        <div class="left">
+            <span class="number">3</span>
+            <span class="title">Design System & Component Library</span>
+        </div>
+        <span class="icon">⌃</span>
+    </button>
+
+    <div class="accordion-content">
+        <h3>Goal</h3>
+        <p>
+            Create a small design system: colors, typography,
+            buttons, form elements, and cards.
+        </p>
+
+        <h3>Requirements</h3>
+        <ul>
+            <li>Define tokens (colors, spacing, font sizes)</li>
+            <li>Create components in Figma with variants</li>
+            <li>Provide usage guidelines</li>
+        </ul>
+
+        <h3>Deliverables</h3>
+        <ol>
+            <li>Design system file (Figma) + PDF guidelines</li>
+            <li>Component screenshots</li>
+        </ol>
+    </div>
+</div>
+
+<div class="accordion-item">
+    <button class="accordion-header">
+        <div class="left">
+            <span class="number">4</span>
+            <span class="title">Usability Testing & Iteration</span>
+        </div>
+        <span class="icon">⌄</span>
+    </button>
+
+    <div class="accordion-content">
+        <h3>Goal</h3>
+        <p>
+            Conduct usability testing and improve the design based on feedback.
+        </p>
+
+        <h3>Requirements</h3>
+        <ul>
+            <li>Test with 3–5 users</li>
+            <li>Document findings and pain points</li>
+            <li>Iterate and improve the design</li>
+        </ul>
+
+        <h3>Deliverables</h3>
+        <ol>
+            <li>Usability testing report</li>
+            <li>Updated design screens</li>
+        </ol>
+    </div>
+</div>
