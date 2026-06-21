@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UX/UI Internship Tasks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav>
+        <div class="logo">internSpark</div>
+        <ul>
+            <li>Home</li>
+            <li>Internship</li>
+            <li>Assessment</li>
+            <li>Contact Us</li>
+            <li>Domains</li>
+            <li>Resources</li>
+        </ul>
+        <button class="apply-btn">Apply Now</button>
+    </nav>
+
+    <div class="container">
+        <p class="note">
+            Note: Out of the 4 main tasks given below, you are required to complete
+            <span>any 3 tasks.</span>
+        </p>
+
+        <h1>Tasks (4)</h1>
+
+        <!-- Task 1 -->
+        <div class="task-card">
+            <div class="task-header">
+                <span class="number">1</span>
+                <h2>Mobile App UX Case Study</h2>
+            </div>
+
+            <div class="task-content">
+                <h3>Goal</h3>
+                <p>
+                    Design a complete UX case study for a mobile app
+                    (e.g., task manager, fitness tracker).
+                </p>
+
+                <h3>Requirements</h3>
+                <ul>
+                    <li>User research summary and personas</li>
+                    <li>User flows and wireframes (low & mid fidelity)</li>
+                    <li>High-fidelity prototype with 4–6 screens</li>
+                </ul>
+
+                <h3>Deliverables</h3>
+                <ol>
+                    <li>Figma/Adobe XD link (prototype)</li>
+                    <li>PDF summary (case study)</li>
+                </ol>
+            </div>
+        </div>
+
+        <!-- Task 2 -->
+        <div class="task-card small">
+            <div class="task-header">
+                <span class="number">2</span>
+                <h2>Website Landing Page UI Design</h2>
+            </div>
+        </div>
+
+        <!-- Task 3 -->
+        <div class="task-card small">
+            <div class="task-header">
+                <span class="number">3</span>
+                <h2>Design System & Component Library</h2>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
